@@ -37,7 +37,7 @@ These were the hyperparameters used:
 
 Several attempts with fixed hyperparameters were done with differing results. Sometimes the environment was solved really fast (<2000 episodes) and sometimes it took longer. This was one of the longer runs and was solved in 4973 episodes:
 
-!Episodic Rewards](./images/scores.png)
+![Episodic Rewards](./images/scores.png)
 
 ## Ideas for Future Work
 
